@@ -7,4 +7,4 @@
 Comision: 25019
 Alumno: BLANEZ, Mariana
 
-![Talento Tech](https://aulasvirtuales.bue.edu.ar/pluginfile.php/2558024/unilabeltype_carousel/image/136/Front%20Js.png)
+![Talento Tech](https://openbadgepassport.com/file/6/1/c/d/61cdfbfcaed01fff0990adec2210d7389cc964829b7825a2ce8b67f1e47a3305.png)
